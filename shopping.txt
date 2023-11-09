@@ -4,3 +4,5 @@ Paprika
 Chili
 Tomaten
 Olivenöl
+Salz
+Pfeffer
