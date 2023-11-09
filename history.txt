@@ -23,3 +23,70 @@
    23  ls -al
    24  history
    25  history >> history.txt
+    1  cd C:\Program Files\Git\cmd\git.exe
+    2  cd C:\Program Files\Git\cmd\git.exe
+    3  cd C:\Users\User\Documents\Moderne Entw.Proz. und Werkz Ü\rep
+    4  ls
+    5  cd /
+    6  cd 
+    7  cd ~
+    8  cd /c
+    9  cd Users\User\Documents\Moderne Entw.Proz. und Werkz Ü\rep
+   10  cd Users\User\Documents\SPM3UE_VZ\rep
+   11  ls
+   12  cd Users/
+   13  ls
+   14  cd User/
+   15  ls
+   16  cd Documents/
+   17  ls
+   18  cd SPM3UE_VZ/
+   19  ls
+   20  cd rep/
+   21  ls
+   22  git init .
+   23  ls -al
+   24  history
+   25  history >> history.txt
+   26  ls -al
+   27  git status
+   28  git add shopping.txt
+   29  git status
+   30  git commit -m "initial commit"
+   31  git status
+   32  git log
+   33  git status
+   34  git add .
+   35  git commit -am "add salt and pepper"
+   36  git status
+   37  git log
+   38  git status
+   39  git add shopping.txt
+   40  git status
+   41  git status
+   42  git add shopping.txt
+   43  git status
+   44  git restore --stagged shopping.txt
+   45  git restore --staged shopping.txt
+   46  git status
+   47  git restore --worktree shopping.txt
+   48  git status
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m "Add schnitzel"
+   53  git log
+   54  git status
+   55  git add .
+   56  git commit --amend
+   57  git log
+   58  git cat-file -p ca9973ddc093
+   59  git reset --hard e372066babd0
+   60  git log
+   61  git reset --hard 668419b71fc7
+   62  git reset --hard HEAD2~
+   63  git reset --hard HEAD~
+   64  git reset --hard 668419b71fc7
+   65  git log
+   66  git reflog
+   67  history >> history.txt
